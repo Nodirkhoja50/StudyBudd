@@ -1,0 +1,1 @@
+web: gunicorn djangobudy.wsgi --log-file -
